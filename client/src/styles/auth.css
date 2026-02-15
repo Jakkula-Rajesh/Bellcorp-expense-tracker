@@ -1,0 +1,26 @@
+.auth-form {
+  width: 300px;
+  margin: 80px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 6px;
+}
+
+.auth-form h2 {
+  text-align: center;
+}
+
+.auth-form input {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+}
+
+.auth-form button {
+  width: 100%;
+  background: #1976d2;
+  color: white;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+}

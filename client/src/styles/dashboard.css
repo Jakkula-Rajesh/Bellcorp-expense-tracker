@@ -1,0 +1,17 @@
+.dashboard {
+  width: 400px;
+  margin: 60px auto;
+  background: white;
+  padding: 30px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.dashboard h2 {
+  margin-bottom: 10px;
+}
+
+.dashboard p {
+  font-size: 24px;
+  color: green;
+}
